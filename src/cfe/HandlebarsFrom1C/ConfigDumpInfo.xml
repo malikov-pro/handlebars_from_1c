@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="CommonModule.КоннекторHTTP" id="2ab7003e-6842-4293-a7f1-e46bc8dde149" configVersion="5704c25571cda73edcbd544bbd7ec91471c27710"/>
+		<Metadata name="CommonModule.КоннекторHTTP.Module" id="2ab7003e-6842-4293-a7f1-e46bc8dde149.0" configVersion="c0aceb7dc6ac9d1251bb84e9c8dd64f3486356c4"/>
+		<Metadata name="Configuration.HandlebarsFrom1C" id="ea526eca-ef0a-45ce-9225-b347bfb4424f" configVersion="24739049082884da82eef5d80872efcbe1b1d51f"/>
+		<Metadata name="HTTPService.hb_HTTPСервис1" id="6e1d64dd-b41e-4813-834a-50b78c54b63d" configVersion="cbebfb9a2d14f20fe1a6b6fb8a604ee0c0e473d2">
+			<Metadata name="HTTPService.hb_HTTPСервис1.URLTemplate.hb_starter.Method.GET" id="2a275a77-e67c-4c9e-8f57-223f11d3ce59"/>
+			<Metadata name="HTTPService.hb_HTTPСервис1.URLTemplate.hb_starter" id="3ef025b0-4401-4441-ab94-e1e6c9ed3f04"/>
+			<Metadata name="HTTPService.hb_HTTPСервис1.URLTemplate.Ping.Method.GET" id="3ff09ee7-5beb-4c95-a685-1b7207bd5ad8"/>
+			<Metadata name="HTTPService.hb_HTTPСервис1.URLTemplate.Ping" id="9bc53581-3ea1-4f0f-8527-135bb34ad493"/>
+		</Metadata>
+		<Metadata name="HTTPService.hb_HTTPСервис1.Module" id="6e1d64dd-b41e-4813-834a-50b78c54b63d.0" configVersion="15c70c854ddb9455d676166003028d2e80b9eb4c"/>
+		<Metadata name="Language.Русский" id="414d8337-3c32-47a4-adb0-b5b9814ef312" configVersion="ae48df39cd0e33c2418248ead4159e15cc6cfd25"/>
+		<Metadata name="Role.hb_ОсновнаяРоль" id="720ed999-4cfa-4e13-af8d-7c341306edcf" configVersion="f39ece5465de9945e68223404cd7b3804a19eb5f"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
